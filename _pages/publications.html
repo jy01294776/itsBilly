@@ -1,36 +1,26 @@
 ---
 layout: archive
-title: "Publications"
+title: "Publications & Research"
 permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+<h2>Thesis</h2>
 
-{% include base_path %}
+<ul>
+  <li>
+    <strong>Theory-anchored embedding-based measurement of employee engagement from Glassdoor reviews: Evidence on firm financial performance</strong>
+    <p>Research on measuring employee engagement from review text using theory-anchored embeddings and examining firm-level financial outcomes.</p>
+  </li>
+</ul>
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+<h2>Research Impact &amp; Industry Applications</h2>
 
-
-
+<ul>
+  <li>
+    <strong><a href="https://www.spglobal.com/spdji/en/indices/sustainability/sp-drucker-institute-corporate-effectiveness-index/#overview" target="_blank" rel="noopener noreferrer">S&amp;P/Drucker Institute Corporate Effectiveness Index</a></strong>, S&amp;P Dow Jones Indices.
+  </li>
+  <li>
+    <strong><a href="https://www.daiwa-am.co.jp/english/stewardship/integration.html" target="_blank" rel="noopener noreferrer">Drucker Institute Score in ESG Integration</a></strong>, Daiwa Asset Management.
+  </li>
+</ul>
