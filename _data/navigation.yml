@@ -4,9 +4,6 @@ main:
   - title: "About"
     url: /
 
-  - title: "CV"
-    url: /cv/
-
   - title: "Media Coverages"
     url: /media-coverages/
 
