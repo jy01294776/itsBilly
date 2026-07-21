@@ -5,11 +5,11 @@
 
 .employment-row {
   display: grid;
-  grid-template-columns: 118px minmax(0, 1fr);
-  gap: 1.25rem;
+  grid-template-columns: 106px minmax(0, 1fr);
+  gap: 1.1rem;
   align-items: center;
-  min-height: 64px;
-  padding: 0.75rem 0;
+  min-height: 56px;
+  padding: 0.65rem 0;
   border-bottom: 1px solid var(--global-border-color);
 }
 
@@ -17,8 +17,8 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  width: 118px;
-  height: 46px;
+  width: 106px;
+  height: 42px;
 }
 
 .employment-logo img {
@@ -29,13 +29,13 @@
 }
 
 .employment-logo--wide img {
-  max-width: 112px;
-  max-height: 42px;
+  max-width: 96px;
+  max-height: 32px;
 }
 
 .employment-logo--square img {
-  max-width: 48px;
-  max-height: 48px;
+  max-width: 42px;
+  max-height: 42px;
 }
 
 .employment-entry {
