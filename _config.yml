@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Xu Chen"
 title_separator          : "-"
 name                     : &name "Xu Chen"
-description              : &description "Information Systems researcher studying AI, work, and organizations through NLP and computational social science."   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Information Systems researcher studying how artificial intelligence shapes work, organizations, and firm outcomes."   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://jy01294776.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "/itsBilly" # the subpath of your site, e.g. "/blog"
@@ -31,6 +31,7 @@ author:
   employer         : "Claremont Graduate University"
   uri              : # URL
   email            : "chenxu0356@gmail.com"
+  cv               : "/cv/"
 
   # Academic websites
   academia         : # URL
@@ -125,7 +126,7 @@ staticman:
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
-  hide                   : false     # change to true to hide the RSS feed in the footer
+  hide                   : true      # change to true to hide the RSS feed in the footer
   path                   : # blank (default) uses feed.xml
 
 

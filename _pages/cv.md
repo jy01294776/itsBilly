@@ -7,58 +7,42 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+## Xu Chen
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+Researcher @ Claremont Graduate University
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+Los Angeles, California
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Email: [chenxu0356@gmail.com](mailto:chenxu0356@gmail.com)
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Research Interests
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+Artificial intelligence, work and organizations, natural language processing, computational social science, and large-scale textual data.
+
+## Education
+
+- **Ph.D. in Information Systems and Technology**, Claremont Graduate University, California, United States of America.
+- **MSc. in Information Systems and Technology**, Claremont Graduate University, California, United States of America.
+- **MSc. in Data Analytics**, University of La Verne, California, United States of America.
+- **MBA**, James Cook University, Queensland, Australia.
+- **B.S. in Financial Management**, Liuzhou Institute of Technology, Guangxi, China.
+
+## Employment
+
+- **Researcher**, Claremont Graduate University, California, United States of America.
+- **Data Scientist, Payments**, TikTok, California, United States of America.
+- **Senior Analyst, Global Commercial Services**, American Express, New York, United States of America.
+- **Risk Modeling Analyst**, Citizens Business Bank, California, United States of America.
+
+## Research
+
+- **Thesis**: Theory-anchored embedding-based measurement of employee engagement from Glassdoor reviews: Evidence on firm financial performance.
+
+## Academic Services
+
+- **Reviewer**, Americas Conference on Information Systems (AMCIS), 2025.
+
+## Selected Research Impact & Industry Applications
+
+- S&P/Drucker Institute Corporate Effectiveness Index, S&P Dow Jones Indices.
+- Drucker Institute Score in ESG Integration, Daiwa Asset Management.
