@@ -14,10 +14,43 @@ Xu Chen previously worked as a data scientist at TikTok, where he focused primar
 Employment
 ======
 
-- **Researcher**, [Claremont Graduate University](https://www.cgu.edu/), California, United States of America.
-- **Data Scientist, Payments**, [TikTok](https://www.tiktok.com/about), California, United States of America.
-- **Senior Analyst, Global Commercial Services**, [American Express](https://www.americanexpress.com/en-us/company/who-we-are/), New York, United States of America.
-- **Risk Modeling Analyst**, [Citizens Business Bank](https://www.cbbank.com/), California, United States of America.
+<div class="employment-list">
+  <div class="employment-row">
+    <a class="employment-logo employment-logo--square" href="https://www.cgu.edu/" aria-label="Claremont Graduate University">
+      <img src="{{ '/images/logos/cgu.svg' | relative_url }}" alt="Claremont Graduate University logo">
+    </a>
+    <div class="employment-entry">
+      <strong>Researcher</strong>, <a href="https://www.cgu.edu/">Claremont Graduate University</a>, California, United States of America.
+    </div>
+  </div>
+
+  <div class="employment-row">
+    <a class="employment-logo employment-logo--wide" href="https://www.tiktok.com/about" aria-label="TikTok">
+      <img src="{{ '/images/logos/tiktok.svg' | relative_url }}" alt="TikTok logo">
+    </a>
+    <div class="employment-entry">
+      <strong>Data Scientist, Payments</strong>, <a href="https://www.tiktok.com/about">TikTok</a>, California, United States of America.
+    </div>
+  </div>
+
+  <div class="employment-row">
+    <a class="employment-logo employment-logo--square" href="https://www.americanexpress.com/en-us/company/who-we-are/" aria-label="American Express">
+      <img src="{{ '/images/logos/american-express.png' | relative_url }}" alt="American Express logo">
+    </a>
+    <div class="employment-entry">
+      <strong>Senior Analyst, Global Commercial Services</strong>, <a href="https://www.americanexpress.com/en-us/company/who-we-are/">American Express</a>, New York, United States of America.
+    </div>
+  </div>
+
+  <div class="employment-row">
+    <a class="employment-logo employment-logo--wide" href="https://www.cbbank.com/" aria-label="Citizens Business Bank">
+      <img src="{{ '/images/logos/citizens-business-bank.png' | relative_url }}" alt="Citizens Business Bank logo">
+    </a>
+    <div class="employment-entry">
+      <strong>Risk Modeling Analyst</strong>, <a href="https://www.cbbank.com/">Citizens Business Bank</a>, California, United States of America.
+    </div>
+  </div>
+</div>
 
 Education
 ======
