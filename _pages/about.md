@@ -9,7 +9,7 @@ redirect_from:
 
 Xu Chen is a researcher at Claremont Graduate University. His research examines how artificial intelligence shapes work, organizations, and firm outcomes, using natural language processing, computational social science, and large-scale textual data.
 
-Xu Chen previously worked as a data scientist at TikTok, where he focused primarily on business growth and fraud prevention for TikTok Shop in the United States. During his time at TikTok, he led TikTok Shop's payment growth strategies and data analytics, as well as the development of models and analytical dashboards across all payment channels. Prior to joining TikTok, he worked at American Express in New York, where he oversaw the development and implementation of a functional model for predicting customer behavior. He is passionate about connecting data with user experience and has a strong interest in growing businesses in dynamic, highly competitive environments.
+His research is informed by prior industry experience in data science, risk modeling, and business analytics. Before joining Claremont Graduate University, he worked as a data scientist at TikTok, focusing on payment growth, fraud prevention, modeling, and analytics for TikTok Shop in the United States. He previously worked at American Express in New York, where he contributed to predictive modeling for customer behavior. Across these roles, he developed a sustained interest in how data, AI systems, and organizational decisions interact in fast-changing business environments.
 
 Employment
 ======
