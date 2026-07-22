@@ -5,7 +5,7 @@ permalink: /media-coverages/
 author_profile: true
 ---
 
-<h2 class="profile-subheading">2025 Ranking</h2>
+<h2 class="coverage-year">2025</h2>
 
 - Dec. 2025 — **[The 250 Best-Managed Companies of 2025](https://www.wsj.com/rankings/management-250-rankings/best-managed-companies-full-rankings-2025)**, *The Wall Street Journal*.
 
