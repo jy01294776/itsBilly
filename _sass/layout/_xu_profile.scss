@@ -42,6 +42,14 @@
   line-height: 1.5;
 }
 
+.education-list {
+  margin: 1rem 0 1.5rem;
+}
+
+.education-list p {
+  margin: 0 0 0.55rem;
+}
+
 @media (max-width: 600px) {
   .employment-row {
     grid-template-columns: 82px minmax(0, 1fr);
