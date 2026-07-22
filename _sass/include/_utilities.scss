@@ -200,6 +200,23 @@ body:hover .visually-hidden button {
     color: #000;
   }
 
+  .sidebar-icon--location {
+    color: #d93025;
+  }
+
+  .sidebar-icon--university {
+    color: #9d2235;
+  }
+
+  .sidebar-icon--email {
+    color: #ea4335;
+  }
+
+  .fa-github,
+  .fa-github-square {
+    color: #181717;
+  }
+
   .fa-bluesky,
   .fa-bluesky-square {
     color: $bluesky-color;
