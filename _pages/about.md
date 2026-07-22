@@ -55,8 +55,10 @@ Employment
 Education
 ======
 
-- **Ph.D. in Information Systems and Technology**, [Claremont Graduate University](https://www.cgu.edu/), California, United States of America.
-- **MSc. in Information Systems and Technology**, [Claremont Graduate University](https://www.cgu.edu/), California, United States of America.
-- **MSc. in Data Analytics**, [University of La Verne](https://laverne.edu/), California, United States of America.
-- **MBA**, [James Cook University](https://www.jcu.edu.au/), Queensland, Australia.
-- **B.S. in Financial Management**, [Liuzhou Institute of Technology](https://www.lzhit.edu.cn/zsw/index.htm), Guangxi, China.
+<div class="education-list">
+  <p><strong>Ph.D. in Information Systems and Technology</strong>, <a href="https://www.cgu.edu/">Claremont Graduate University</a>, California, United States of America.</p>
+  <p><strong>MSc. in Information Systems and Technology</strong>, <a href="https://www.cgu.edu/">Claremont Graduate University</a>, California, United States of America.</p>
+  <p><strong>MSc. in Data Analytics</strong>, <a href="https://laverne.edu/">University of La Verne</a>, California, United States of America.</p>
+  <p><strong>MBA</strong>, <a href="https://www.jcu.edu.au/">James Cook University</a>, Queensland, Australia.</p>
+  <p><strong>B.S. in Financial Management</strong>, <a href="https://www.lzhit.edu.cn/zsw/index.htm">Liuzhou Institute of Technology</a>, Guangxi, China.</p>
+</div>
